@@ -15,7 +15,10 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@nestjs-microservices/shared": ["shared/src/lib/dto/index.ts"]
+      "@nestjs-microservices/shared": ["shared/src/lib/dto/index.ts"],
+      "@nestjs-microservices/shared/entities": [
+        "shared/src/lib/entities/index.ts"
+      ]
     }
   },
   "exclude": ["node_modules", "tmp"]
