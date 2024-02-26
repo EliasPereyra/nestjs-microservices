@@ -1,8 +1,8 @@
-# A Nestjs Microservice
+# Microservices with Nest.js
 
 <a alt="Nx logo" href="https://nx.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="45"></a>
 
-A simple demo about a micro service using Nest.js through **Nx** and **Kafka**.
+A simple demo about two micro services using Nest.js with **Kafka** through **Nx**.
 
 ## Workspace
 
