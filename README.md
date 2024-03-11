@@ -2,7 +2,7 @@
 
 <a alt="Nx logo" href="https://nx.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="45"></a>
 
-A simple demo about two micro services using Nest.js with **Kafka** through **Nx**.
+This is a project for learning purposes. A simple demo about two micro-services using Nest.js with **Kafka** through **Nx**.
 
 ## Workspace
 
